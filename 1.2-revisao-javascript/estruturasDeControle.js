@@ -8,7 +8,7 @@ let k = 10;
 //if & switch
 //dois modos de comparação
 if(a > b){
-  // se a comparação estiver certa, tem como saída o código desse bloco
+  // se e somente se a comparação feita estiver certa, tem como saída o código desse bloco
 }
 
 switch(m){
